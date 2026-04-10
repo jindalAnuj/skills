@@ -1,0 +1,4 @@
+interface:
+  display_name: "Journal Support"
+  short_description: "Reflect on feelings and next steps"
+  default_prompt: "Use $journal-support to respond to this journal entry with empathy, reflection, and practical next steps."
